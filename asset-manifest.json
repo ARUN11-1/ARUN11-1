@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/arun11-1%20/static/css/main.984de7d3.css",
+    "main.js": "/arun11-1%20/static/js/main.fb41348c.js",
+    "index.html": "/arun11-1%20/index.html",
+    "main.984de7d3.css.map": "/arun11-1%20/static/css/main.984de7d3.css.map",
+    "main.fb41348c.js.map": "/arun11-1%20/static/js/main.fb41348c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.984de7d3.css",
+    "static/js/main.fb41348c.js"
+  ]
+}
